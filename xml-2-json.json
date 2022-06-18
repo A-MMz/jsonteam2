@@ -1,0 +1,368 @@
+{
+    "?xml-stylesheet": "href=\"http://www.blogger.com/styles/atom.css\" type=\"text/css\"",
+    "feed": {
+      "-xmlns": "'http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:blogger='http://schemas.google.com/blogger/2008' xmlns:georss='http://www.georss.org/georss' xmlns:gd=",
+      "-xmlns:thr": "'http://purl.org/syndication/thread/1.0'",
+      "id": "tag:blogger.com,1999:blog-7592217648517355074",
+      "updated": "2020-02-29T00:07:04.366-08:00",
+      "title": {
+        "-type": "'text'",
+        "#text": "Blog Machista... las mujeres y sus delirios..."
+      },
+      "subtitle": {
+        "-type": "'html'",
+        "#text": "Despues de todo, que seriamos sin ellas ?"
+      },
+      "link": [
+        {
+          "-rel": "'http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/posts/default'/",
+          "-self-closing": "true"
+        },
+        {
+          "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default'/",
+          "-self-closing": "true"
+        },
+        {
+          "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/'/",
+          "-self-closing": "true"
+        },
+        {
+          "-rel": "'hub' href='http://pubsubhubbub.appspot.com/'/",
+          "-self-closing": "true"
+        }
+      ],
+      "author": {
+        "name": "Bryan",
+        "uri": "http://www.blogger.com/profile/05136571633629194773",
+        "email": "noreply@blogger.com",
+        "gd:image": {
+          "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+          "-self-closing": "true"
+        }
+      },
+      "generator": {
+        "-version": "'7.00' uri='http://www.blogger.com'",
+        "#text": "Blogger"
+      },
+      "openSearch:totalResults": "7",
+      "openSearch:startIndex": "1",
+      "openSearch:itemsPerPage": "25",
+      "entry": [
+        {
+          "id": "tag:blogger.com,1999:blog-7592217648517355074.post-4101046458016562458",
+          "published": "2010-02-17T13:58:00.000-08:00",
+          "updated": "2010-02-17T14:11:45.788-08:00",
+          "title": {
+            "-type": "'text'",
+            "#text": "Soy Linda, Soy todo... Si claro."
+          },
+          "content": {
+            "-type": "'html'",
+            "#text": "Que problema el de ser fea no ?pero tambien es problematico para los hombres que sean demasiado lindas... porque ? y es largo de explicar, ser lindas las sube automaticamente a un pedestal a mas de 3 metros de altura en donde solo ven lo que quieren, y escuchan lo que les conviene... les crece la nariz porque dicen mas mentiras que el gobierno K...<br /><br />nunca les ha pasado de ver una hermosima dama, y a la hora de tratar de acercarce se ponen amargas ? ta bien que los hombres por ahi somos unas basuras y decimos algunas tonteras menores ( heee miamooooor!!!!!, hijaaa de puuuu, te la pongo tooooda y una larga lista de romanticos etceteras ) pero que te cuesta educadamente rechazarnos ? No con una cara de bagre mal frito que ponen la mayoria, que te forrean, q te maltratan. pero porque lo hacen ?<br /><br />Y es simples, como dije anteriormente, a sus 3 metros de altura les ayuda la vista de aguila para perseguir billeteras gordas, porque despues vemos a esas hermosas damas agarradas de la mano con unos pelotudos a cuerda en el mejor de los casos y en los peores con un casado cornudo... pero que en ambos casos andan con la billetera mas grande y gorda que el propio pito...<br /><br />La belleza es un hermoso atributo, sin dudas! que debe complementarse con la cabeza, y xq nunca falta la linda secretaria trepadora que cogiendo con el jefe quiere llegar a la cima del mundo, esas son las que terminan siendo prostitutas despues.. literalmente rompiendose el orto en el trabajo...<br /><br />xq no existen cirujias para que las huecas sean mas inteligentes? ( lease huecas= rubias en su mayoria, ya les comentare una tehoria al respecto ) para cuando los transplantes de cerebro ?"
+          },
+          "link": [
+            {
+              "-rel": "'replies' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/4101046458016562458/comments/default' title='Enviar comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'replies' type='text/html' href='https://blogmachista.blogspot.com/2010/02/soy-linda-soy-todo-si-claro.html#comment-form' title='0 comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'edit' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/4101046458016562458'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/4101046458016562458'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/2010/02/soy-linda-soy-todo-si-claro.html' title='Soy Linda, Soy todo... Si claro.'/",
+              "-self-closing": "true"
+            }
+          ],
+          "author": {
+            "name": "Bryan",
+            "uri": "http://www.blogger.com/profile/05136571633629194773",
+            "email": "noreply@blogger.com",
+            "gd:image": {
+              "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+              "-self-closing": "true"
+            }
+          },
+          "thr:total": "0"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-7592217648517355074.post-2992061679335725869",
+          "published": "2010-02-08T22:09:00.000-08:00",
+          "updated": "2010-02-08T22:25:05.037-08:00",
+          "title": {
+            "-type": "'text'",
+            "#text": "Que hariamos sin ellas..."
+          },
+          "content": {
+            "-type": "'html'",
+            "#text": "mucho he hablado sobre las malas costumbres de las mujeres ... pero que de las buenas ? todo lado A tiene su lado B cierto ? entonces si tengo una maniatica depresiva de los celos como mi novia, es bastante obvio pensar que el novio en el caso deberia estar re contra bien atendido!!<br /><br />A ellas nunca se les escapa una fecha importante, se acuerdan todas las semanas el dia que el pobre tonto de novio le pidio la mano, y cada semana exactamente te ruega que la lleves a cenar... para que ella se vista lo mas coqueta posible, con la ropa interior mas cachonda... enfin.<br /><br />Y en esos aniversarios ? fiesta de aca de alla, cartitas de amor, fotos, abrazos mimos, sexo salvaje... lo que se les ocurra!!! pero nadie puede negar que no es un hermoso gesto, escribir una carta de amor a la persona que aman, y no me digan que las chicas no aman!! es proporcional directamente a que tan rompebolas es! si no te deja salir! te re caga amando! eso seguro.<br /><br />Hablando serio ahora, no todo lo que digo es verdad ( ?  ) pero si hay algo que sii es verdad y les puedo asegurar, es que con cada uno de esos gestos nos alegran el dia, la semana el mes, y porque no el año ? Estar enamorado es una de las cosas mas lindas que existen, y hay que disfrutarlo cuando se puede!.<br /><br />las mujeres no seran perfectas, no seran siempre las mas bonitas, pero son la cosa mas linda que le puede pasar en la vida de un hombre... los altibajos los tiene todo el mundo, pero una compañera, eso no se encuentra a la vuelta de la esquina.<br /><br />Acuerdense... que sin ustedes, para que tendriamos el dinero !"
+          },
+          "link": [
+            {
+              "-rel": "'replies' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/2992061679335725869/comments/default' title='Enviar comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'replies' type='text/html' href='https://blogmachista.blogspot.com/2010/02/que-hariamos-sin-ellas.html#comment-form' title='0 comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'edit' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/2992061679335725869'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/2992061679335725869'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/2010/02/que-hariamos-sin-ellas.html' title='Que hariamos sin ellas...'/",
+              "-self-closing": "true"
+            }
+          ],
+          "author": {
+            "name": "Bryan",
+            "uri": "http://www.blogger.com/profile/05136571633629194773",
+            "email": "noreply@blogger.com",
+            "gd:image": {
+              "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+              "-self-closing": "true"
+            }
+          },
+          "thr:total": "0"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-7592217648517355074.post-6047589666863998006",
+          "published": "2010-02-08T21:24:00.000-08:00",
+          "updated": "2010-02-08T21:47:30.019-08:00",
+          "title": {
+            "-type": "'text'",
+            "#text": "Perfumes lolas, narizes, pelos, lentes.. que sigue ?"
+          },
+          "content": {
+            "-type": "'html'",
+            "#text": "ultimamente no dejo de reflexionar en mis entrañas, que clase de asesores de moda tienen las niñas de hoy ? la web ? hace un rato paso por la esquina de casa una flaca que tenia el pelo que parecia un espantapajaros!! textura de paja! por lo menos una semana sin conocer el agua, pero en su cara no podrian faltar unos rayban Classics aviator... ( esos feos que tienen un gancho tipo pirata que se cuelgan como sanguijuela de tu oido ) y seguro que comprados robados en la salada... y perfume ? si perfume bien humano!!! chivo de una semana de antiguedad casi apto para la parrilla!<br /><br />La vestimenta... por dios, las cosas que estamos obligados a ver!! sensualidad -15!! chicas, culote no se usa con vestido!!!<br /><br />La nariz... y si, medio estilo tucumano ( mitad tucan mitad humano ), con una  plastica de la san puta madre que hasta brillaba! unas lolas que parecian bolas de boliche, solo les faltaba los 3 aujeros para colocar los dedos... enfin.. un mamaracho de persona, pero es la tendencia! cada dia mas chicas se meten al quirofano a edades ridiculas! media pila chicas!! si ustedes se operan todo lo que se ve, nosotros nos vamos a empezar a operar lo que NO se ve, pero se siente! ( en la boca de utero! jajaja )<br /><br />volviendo al tema perfumes, me gustaria que alguna amable señorita me comente en donde regalan \" very irresistible By Givenchy \" porque si observan y huelen a otras mujeres facil 80% lo usan como perfume para salida, flojo, donde quedo la originalidad ?<br /><br />La moda, sera realmente moda ? o simplemente un intento fallido de copiar a la elite ?"
+          },
+          "link": [
+            {
+              "-rel": "'replies' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/6047589666863998006/comments/default' title='Enviar comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'replies' type='text/html' href='https://blogmachista.blogspot.com/2010/02/perfumes-lolas-narizes-pelos-lentes-que.html#comment-form' title='0 comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'edit' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/6047589666863998006'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/6047589666863998006'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/2010/02/perfumes-lolas-narizes-pelos-lentes-que.html' title='Perfumes lolas, narizes, pelos, lentes.. que sigue ?'/",
+              "-self-closing": "true"
+            }
+          ],
+          "author": {
+            "name": "Bryan",
+            "uri": "http://www.blogger.com/profile/05136571633629194773",
+            "email": "noreply@blogger.com",
+            "gd:image": {
+              "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+              "-self-closing": "true"
+            }
+          },
+          "thr:total": "0"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-7592217648517355074.post-7534770653511747839",
+          "published": "2010-02-07T21:05:00.001-08:00",
+          "updated": "2010-02-07T21:08:23.470-08:00",
+          "title": {
+            "-type": "'text'",
+            "#text": "Andes, Nuestra salvacion ?"
+          },
+          "content": {
+            "-type": "'html'",
+            "#text": "Como ya hemos nombrado anteriormente... Su ambicion de dominar parece simplemente infinita....<br /><object height=\"344\" width=\"425\"><param name=\"movie\" value=\"http://www.youtube.com/v/eJaKwD2gyME&hl=es_ES&fs=1&\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/eJaKwD2gyME&hl=es_ES&fs=1&\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" height=\"344\" width=\"425\"></embed></object><br /><br /><br />realmente ... cuanta verdad esconde un simple comercial no ?"
+          },
+          "link": [
+            {
+              "-rel": "'replies' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/7534770653511747839/comments/default' title='Enviar comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'replies' type='text/html' href='https://blogmachista.blogspot.com/2010/02/andes-nuestra-salvacion.html#comment-form' title='0 comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'edit' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/7534770653511747839'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/7534770653511747839'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/2010/02/andes-nuestra-salvacion.html' title='Andes, Nuestra salvacion ?'/",
+              "-self-closing": "true"
+            }
+          ],
+          "author": {
+            "name": "Bryan",
+            "uri": "http://www.blogger.com/profile/05136571633629194773",
+            "email": "noreply@blogger.com",
+            "gd:image": {
+              "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+              "-self-closing": "true"
+            }
+          },
+          "thr:total": "0"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-7592217648517355074.post-4549075965187115561",
+          "published": "2010-02-07T20:34:00.000-08:00",
+          "updated": "2010-02-07T20:45:28.840-08:00",
+          "title": {
+            "-type": "'text'",
+            "#text": "El \" pedo \" femenino..."
+          },
+          "content": {
+            "-type": "'html'",
+            "#text": "Llega viernes por la noche... hora de juntarse con las amigas, hacer la previa en la casa de cele y tomar hasta quedar patas para arriba.<br />Siempre dije para mis amigos, que poco femenino es ver una mujer borracha, se le van todos los modales! es como comer frutas secas, al rato una cagada te regala seguro!<br /><br />despues de lo de cele, se van al boliche de moda mas cercano o donde se concentre la mayor cantidad de mini coopers... despues de la 15ta cerveza o el 9veno espumante ya no saben ni si estan indispuestas o no, se les acerca cacho gomez con aliento a cocodrilo borracho y la invita a bailar, no se molesta en responder.. lo agarra a don cacho de la cara y le mete la lengua hasta el exofago... finoli finoli no ? lamentablemente tiene un fondo de verdad muy profundo, cacho gomez esta un poco mas sobrio y vio la oportunidad de ponerla.<br /><br />Se lleva a la dama a su auto, departamento, telo o porque no el siempre disponible \" yuyos\". total con el pedo que tiene encima, mira si se va a dar cuenta... 6 horas y 4 polvos despues el efecto alcohol empieza a desaparecer y empiezan las preguntas \" vos quien sos ? como llegue aca ? porque me duele el culo ???\"<br /><br />Lamentable...."
+          },
+          "link": [
+            {
+              "-rel": "'replies' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/4549075965187115561/comments/default' title='Enviar comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'replies' type='text/html' href='https://blogmachista.blogspot.com/2010/02/el-pedo-femenino.html#comment-form' title='0 comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'edit' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/4549075965187115561'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/4549075965187115561'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/2010/02/el-pedo-femenino.html' title='El \" pedo \" femenino...'/",
+              "-self-closing": "true"
+            }
+          ],
+          "author": {
+            "name": "Bryan",
+            "uri": "http://www.blogger.com/profile/05136571633629194773",
+            "email": "noreply@blogger.com",
+            "gd:image": {
+              "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+              "-self-closing": "true"
+            }
+          },
+          "thr:total": "0"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-7592217648517355074.post-9178139043331114044",
+          "published": "2010-02-07T20:20:00.001-08:00",
+          "updated": "2010-02-07T20:31:14.050-08:00",
+          "title": {
+            "-type": "'text'",
+            "#text": "La comida... y las mujeres"
+          },
+          "content": {
+            "-type": "'html'",
+            "#text": "\" No amor, no quiero eso porque estoy gorda, comelo vos \" frases comunmente escuchadas en la vida de una pareja, ahora, que pasa cuando ellas nos quieren obligar a comer lo que ellas quieren que comamos ?<br /><br />La mujer tiene esa peculiar calidad de con solo una carita de azco cambiar nuestro gusto, recuedo haber visto centenar de veces parejas comprando comida para llevar en autoservicios, en frente de una hermosa bandeja de papas con huevos revueltos y panceta el \" novio \" a punto de atacar salvajemente la bandeja, cambia de idea rapidamente de opinion, pero porque!!<br />Su querida gatita flora esta gorda y no quiere bancarse la baranda a huevo y panceta en casa y dice, no amor miraaaa esas papas deben ser de la semana pasada, y esos huevos, no habra pollito ahi ? no mejor no lleves te va a hacer mal amor... que esfuerzo no ? la solitaria le debe estar haciendo piquete.<br /><br />Si estas gorda negra, ponete las pilas y baja de peso!!! y si necesitas ayuda, no corras al vecino o vayan al gimnasio, para eso estamos los novios!!!<br /><br />Aguante las papas con panceta y huevo con un entrecot mal pasado a la parrilla!!!!"
+          },
+          "link": [
+            {
+              "-rel": "'replies' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/9178139043331114044/comments/default' title='Enviar comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'replies' type='text/html' href='https://blogmachista.blogspot.com/2010/02/la-comida-y-las-mujeres.html#comment-form' title='0 comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'edit' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/9178139043331114044'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/9178139043331114044'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/2010/02/la-comida-y-las-mujeres.html' title='La comida... y las mujeres'/",
+              "-self-closing": "true"
+            }
+          ],
+          "author": {
+            "name": "Bryan",
+            "uri": "http://www.blogger.com/profile/05136571633629194773",
+            "email": "noreply@blogger.com",
+            "gd:image": {
+              "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+              "-self-closing": "true"
+            }
+          },
+          "thr:total": "0"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-7592217648517355074.post-6130972746219440204",
+          "published": "2010-02-07T20:07:00.000-08:00",
+          "updated": "2010-02-07T20:19:04.850-08:00",
+          "title": {
+            "-type": "'text'",
+            "#text": "Celos, Enfermedad o oportunidad ?"
+          },
+          "content": {
+            "-type": "'html'",
+            "#text": "Enfermedad ? modernizmo ? o una pura oportunidad de dominar ? porque ultimamente la moda es controlar de modo obsesivo a los hombres ? que acaso solo nosotros miramos otras mujeres ? ( dije mirar!!! ), ellas no  ? no tienen ojos ?. y despues las vemos derramando baldasos de baba por esos comunmente llamados \" actores \" de hollywodland. y para nosotros que queda .<br /><br />Quien nunca tubo una mentirita piadosa para evitar esos problemas de la bruja ? quien nunca fue cuestionado sobre sus actividades de fin de semana con los amigos ? ellas no salen con amigas no ? claro,ellas se juntan en lo de \" pao \" a tomar mates, resulta que despues te enteraste por tu mejor amigo que salieron con vinchas, si vinchas, en lugar de polleras a mostrar el culo por ahi, y vos terminas no diciendo nada.. pero despues ella se entera que te cruzaste con \" floppy \" en el boliche, y resulta que floppy esta mas buena que comer pollo con la mano...<br /><br />y si. Los celos obsesivos aparecen, pero digo yo, si estamos bien de novios, la palabra NOVIOS no significa nada ? confianza por ejemplo ? yo creo que ya no significa mucho mas. mas que noviazgo, en el vocablo femenino significa obesesion."
+          },
+          "link": [
+            {
+              "-rel": "'replies' type='application/atom+xml' href='https://blogmachista.blogspot.com/feeds/6130972746219440204/comments/default' title='Enviar comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'replies' type='text/html' href='https://blogmachista.blogspot.com/2010/02/celos-enfermedad-o-oportunidad.html#comment-form' title='0 comentarios'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'edit' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/6130972746219440204'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'self' type='application/atom+xml' href='https://www.blogger.com/feeds/7592217648517355074/posts/default/6130972746219440204'/",
+              "-self-closing": "true"
+            },
+            {
+              "-rel": "'alternate' type='text/html' href='https://blogmachista.blogspot.com/2010/02/celos-enfermedad-o-oportunidad.html' title='Celos, Enfermedad o oportunidad ?'/",
+              "-self-closing": "true"
+            }
+          ],
+          "author": {
+            "name": "Bryan",
+            "uri": "http://www.blogger.com/profile/05136571633629194773",
+            "email": "noreply@blogger.com",
+            "gd:image": {
+              "-rel": "'http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/",
+              "-self-closing": "true"
+            }
+          },
+          "thr:total": "0"
+        }
+      ]
+    }
+  }
